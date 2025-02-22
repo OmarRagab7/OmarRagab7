@@ -11,8 +11,7 @@ Detail-oriented Data Analyst skilled in data analysis, visualization, and transf
 </br>
 ### :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Omar_M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=ffff00&border=2px_solid_0077B5)](https://www.linkedin.com/in/omar-rageb)  
-[![Mail Badge](https://img.shields.io/badge/-Omar%20M-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=ffff00&border=2px_solid_EA4335)](mailto:omarrageb341@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Omar_R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=ffff00&border=2px_solid_0077B5)](https://www.linkedin.com/in/omar-rageb)    [![Mail Badge](https://img.shields.io/badge/-Omar%20R-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=ffff00&border=2px_solid_EA4335)](mailto:omarrageb341@gmail.com)
  </br>
 ### About Me !
 
@@ -21,8 +20,7 @@ Detail-oriented Data Analyst skilled in data analysis, visualization, and transf
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-90%25-orange?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=ff8c00&color=white&border=2px_solid_ff8c00)  
 
 ---
-</br>
-</br>
+
 
 <img
 	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
@@ -35,5 +33,3 @@ Detail-oriented Data Analyst skilled in data analysis, visualization, and transf
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=omarragab4&icon=0&color=0)](https://visitcount.itsvg.in)
-
