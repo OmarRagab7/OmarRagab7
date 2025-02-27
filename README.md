@@ -11,7 +11,7 @@ Detail-oriented Data Analyst skilled in data analysis, visualization, and transf
 </br>
 ### :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Omar_R-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=ffff00&border=2px_solid_0077B5)](https://www.linkedin.com/in/omar-rageb)    [![Mail Badge](https://img.shields.io/badge/-Omar%20R-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=ffff00&border=2px_solid_EA4335)](mailto:omarrageb341@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=ffff00&border=2px_solid_0077B5)](https://www.linkedin.com/in/omar-rageb)    [![Mail Badge](https://img.shields.io/badge/-Omar%20R-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=ffff00&border=2px_solid_EA4335)](mailto:omarrageb341@gmail.com)
  </br>
 ### About Me !
 
